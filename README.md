@@ -33,5 +33,4 @@ Power Query Editor – for data transformation and modeling
 
 DAX – for custom measures and calculations
 
-## Screenshot / Demos
-Dashboard looks like:-  https://github.com/Jubair36/Healthcare-Provider-Analytics/blob/main/Healthcare%20Provider%20Analyst.jpg
+
